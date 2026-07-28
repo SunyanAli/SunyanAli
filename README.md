@@ -1,6 +1,6 @@
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<!-- ═══════════════ 3D HERO ═══════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00F5FF,100:FF00E5&height=180&section=header" width="100%" alt="header" />
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cube.svg" width="100%" alt="rotating 3D wireframe cube" />
 </div>
 
 <h1 align="center">Sunyan Ali</h1>
@@ -90,14 +90,75 @@ const sunyan = {
 
 <br />
 
+<!-- ═══════════════ EXPANDABLE SECTIONS ═══════════════ -->
+<h2 align="center">🧭 Dig Deeper</h2>
+
+<details>
+<summary><b>🧠 &nbsp;Full Skill Breakdown</b> &nbsp;— click to expand</summary>
+
+<br />
+
+| Layer | What I use |
+|---|---|
+| **Frontend** | Next.js, React, React Native, Expo, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Framer Motion, Three.js |
+| **Backend** | Node.js, Express.js, REST APIs, JWT authentication |
+| **Database & Cloud** | MongoDB, PostgreSQL, Supabase, Firebase |
+| **Game Dev & AR** | Unity 3D, C#, AR Foundation, Cinemachine, NavMesh, Timeline |
+| **AI & ML** | TensorFlow, OpenAI API, AI integration, machine learning |
+| **Tools & DevOps** | Git, GitHub, Vercel, Postman, VS Code, npm, Figma |
+| **Languages** | JavaScript, TypeScript, C#, SQL |
+
+</details>
+
+<details>
+<summary><b>📂 &nbsp;Featured Projects</b> &nbsp;— click to expand</summary>
+
+<br />
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT_Auth-FF00E5?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/AR_Foundation-8A2BE2?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-00F5FF?style=flat-square&logo=fastapi&logoColor=black" />
+  <a href="https://github.com/SunyanAli/Shopping">
+    <img src="https://img.shields.io/badge/Shopping-CSS-8A2BE2?style=for-the-badge&labelColor=0d1117&logo=css3&logoColor=white" alt="Shopping" />
+  </a>
+  <a href="https://github.com/SunyanAli/Login">
+    <img src="https://img.shields.io/badge/Login-HTML-00F5FF?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="Login" />
+  </a>
+  <a href="https://github.com/SunyanAli/Table">
+    <img src="https://img.shields.io/badge/Table-HTML-FF00E5?style=for-the-badge&labelColor=0d1117&logo=html5&logoColor=white" alt="Table" />
+  </a>
+  <a href="https://github.com/SunyanAli/profile-readme-generator">
+    <img src="https://img.shields.io/badge/Profile_README_Generator-TypeScript-3178C6?style=for-the-badge&labelColor=0d1117&logo=typescript&logoColor=white" alt="profile-readme-generator" />
+  </a>
 </div>
+
+<br />
+
+- **Shopping** — a storefront layout built with hand-written CSS, no framework
+- **Login** — authentication UI experiments in plain HTML/CSS
+- **Table** — responsive data table patterns
+- **profile-readme-generator** — Next.js + TypeScript tool for building profile READMEs
+
+</details>
+
+<details>
+<summary><b>🎯 &nbsp;What I'm Working On Right Now</b> &nbsp;— click to expand</summary>
+
+<br />
+
+- 🕶️ An **AR Foundation** project in Unity — marker tracking, NavMesh navigation, Cinemachine camera work
+- ⚛️ A **Next.js + Supabase** full stack app with JWT auth and a Postgres backend
+- 🤖 Wiring the **OpenAI API** into a React Native app built with Expo
+- 🎨 Learning **Three.js** and **Framer Motion** to bring 3D into the browser
+
+</details>
+
+<details>
+<summary><b>📫 &nbsp;How to Reach Me</b> &nbsp;— click to expand</summary>
+
+<br />
+
+Best way is email — I read everything and reply to most things within a day or two. If you're reaching out about collaborating on an AR or Unity project, mention that up front and I'll bump it to the top of the pile.
+
+</details>
 
 <br />
 
