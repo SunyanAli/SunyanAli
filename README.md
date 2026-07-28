@@ -105,19 +105,19 @@ const sunyan = {
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunyanAli&theme=radical" width="85%" alt="profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunyanAli&theme=radical&v=2" width="85%" alt="profile summary" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunyanAli&theme=radical" height="200" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunyanAli&theme=radical" height="200" alt="most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SunyanAli&theme=radical&v=2" height="200" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SunyanAli&theme=radical&v=2" height="200" alt="most commit language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunyanAli&theme=radical" height="200" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SunyanAli&theme=radical&utcOffset=5" height="200" alt="productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunyanAli&theme=radical&v=2" height="200" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SunyanAli&theme=radical&utcOffset=5&v=2" height="200" alt="productive time" />
 </div>
 
 <br />
