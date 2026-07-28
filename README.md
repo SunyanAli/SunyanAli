@@ -169,7 +169,7 @@ Best way is email — I read everything and reply to most things within a day or
 <!-- ════════ CAT ════════ -->
 <h2 align="center">🐈 The Profile Cat</h2>
 
-<p align="center"><i>She patrols the grid. Watch her get bigger as she walks toward you.</i></p>
+<p align="center"><i>She wanders wherever she likes across the grid — closer, further, left, right — and yes, she meows.</i></p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat.svg" width="100%" alt="neon cat walking around a 3D grid" />
