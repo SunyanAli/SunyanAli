@@ -9,7 +9,7 @@
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <div align="center">
   <a href="https://github.com/SunyanAli">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=Building+with+Next.js+%26+React+Native;Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL;Unity+3D+%26+AR+Foundation+Developer;Integrating+AI+into+real+products;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=00F5FF&center=true&vCenter=true&width=820&height=52&lines=Building+with+Next.js+%26+React+Native;Node.js+%7C+Express+%7C+MongoDB+%7C+PostgreSQL;Unity+3D+%26+AR+Foundation+Developer;Integrating+AI+into+real+products;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
