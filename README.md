@@ -63,6 +63,10 @@ const sunyan = {
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/orbit.svg" width="100%" alt="tech stack orbiting in 3D" />
+</div>
+
+<div align="center">
 
 **🎨 Frontend**
 
@@ -159,6 +163,17 @@ const sunyan = {
 Best way is email — I read everything and reply to most things within a day or two. If you're reaching out about collaborating on an AR or Unity project, mention that up front and I'll bump it to the top of the pile.
 
 </details>
+
+<br />
+
+<!-- ════════ CAT ════════ -->
+<h2 align="center">🐈 The Profile Cat</h2>
+
+<p align="center"><i>She patrols the grid. Watch her get bigger as she walks toward you.</i></p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat.svg" width="100%" alt="neon cat walking around a 3D grid" />
+</div>
 
 <br />
 
