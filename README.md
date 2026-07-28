@@ -24,6 +24,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:00F5FF,100:FF00E5&height=4&section=header" width="100%" alt="divider" />
 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat-a.svg" width="100%" alt="roaming cat" />
+</div>
+
 <!-- ═══════════════ ABOUT ═══════════════ -->
 <h2 align="center">⚡ About Me</h2>
 
@@ -58,6 +63,11 @@ const sunyan = {
 </table>
 
 <br />
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat-c.svg" width="100%" alt="roaming cat" />
+</div>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 <h2 align="center">🛠️ Tech Arsenal</h2>
@@ -95,6 +105,11 @@ const sunyan = {
 <br />
 
 <!-- ═══════════════ EXPANDABLE SECTIONS ═══════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat-a.svg" width="100%" alt="roaming cat" />
+</div>
+
 <h2 align="center">🧭 Dig Deeper</h2>
 
 <details>
@@ -172,7 +187,7 @@ Best way is email — I read everything and reply to most things within a day or
 <p align="center"><i>She wanders wherever she likes across the grid — closer, further, left, right — and yes, she meows.</i></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat.svg" width="100%" alt="neon cat walking around a 3D grid" />
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat-b.svg" width="100%" alt="neon cat walking around a 3D grid" />
 </div>
 
 <br />
@@ -206,6 +221,11 @@ Best way is email — I read everything and reply to most things within a day or
 <br />
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat-c.svg" width="100%" alt="roaming cat" />
+</div>
+
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
@@ -227,6 +247,11 @@ Best way is email — I read everything and reply to most things within a day or
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SunyanAli/SunyanAli/main/assets/cat-b.svg" width="100%" alt="roaming cat" />
 </div>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
