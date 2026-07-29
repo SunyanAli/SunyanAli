@@ -238,8 +238,8 @@ Best way is email — I read everything and reply to most things within a day or
   <a href="https://twitter.com/YOUR-HANDLE">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
-  <a href="https://YOUR-PORTFOLIO.com">
-    <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
+  <a href="https://sunyanportfolio.netlify.app">
+    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-00F5FF?style=for-the-badge&logo=netlify&logoColor=0d1117&labelColor=0d1117" alt="portfolio" />
   </a>
 </div>
 
