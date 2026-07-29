@@ -239,7 +239,7 @@ Best way is email — I read everything and reply to most things within a day or
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
   <a href="https://sunyanportfolio.netlify.app">
-    <img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-00F5FF?style=for-the-badge&logo=netlify&logoColor=0d1117&labelColor=0d1117" alt="portfolio" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80_VIEW_MY_PORTFOLIO-00C7B7?style=for-the-badge&logoColor=ffffff&labelColor=0d1117" alt="portfolio" />
   </a>
 </div>
 
